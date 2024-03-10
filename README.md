@@ -9,7 +9,7 @@ You can customize almost everything so that the plugins fits to your preferences
 
 ## Installation Guide
 - Download the .dll file and place it in your EXILED/Plugins folder
-- The plugin will automatically works, however, if you want to change settings, you have to edit the "PORT-config.yaml"-file.
+- The plugin will automatically work, however, if you want to change settings, you have to edit the "PORT-config.yaml"-file.
 
 ## Default Config
 ```
