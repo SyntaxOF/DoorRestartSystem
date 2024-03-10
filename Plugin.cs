@@ -14,7 +14,7 @@ namespace DoorRestartSystem
         public static Plugin Instance { get; private set; } = null!;
         public override string Name => "DoorRestartSystem";
         public override string Author => "syntax_.os";
-        public override Version RequiredExiledVersion => new Version(13, 4, 2);
+        public override Version RequiredExiledVersion => new Version(8, 8, 0);
         public override Version Version => new Version(1, 0, 0);
         public override PluginPriority Priority { get; } = PluginPriority.Low;
 
